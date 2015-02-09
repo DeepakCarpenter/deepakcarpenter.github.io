@@ -1,1 +1,0 @@
-# deepakcarpenter.github.io
