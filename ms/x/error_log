@@ -1,0 +1,8 @@
+[17-Jan-2013 01:13:46] PHP Parse error:  syntax error, unexpected '.' in /home/zymiart/public_html/x/wew.php on line 2
+[17-Jan-2013 01:14:26] PHP Parse error:  syntax error, unexpected '.' in /home/zymiart/public_html/x/wew.php on line 2
+[18-Jan-2013 00:48:28] PHP Warning:  Invalid argument supplied for foreach() in /home/zymiart/public_html/x/fb.php on line 16
+[18-Jan-2013 00:53:31] PHP Parse error:  syntax error, unexpected T_AS, expecting ']' in /home/zymiart/public_html/x/fb.php on line 16
+[18-Jan-2013 01:07:29] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/zymiart/public_html/x/fb.php on line 16
+[18-Jan-2013 01:08:29] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW, expecting ',' or ';' in /home/zymiart/public_html/x/fb.php on line 16
+[18-Jan-2013 01:13:35] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/zymiart/public_html/x/fb.php on line 16
+[18-Jan-2013 01:14:21] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR, expecting ']' in /home/zymiart/public_html/x/fb.php on line 16
