@@ -1,0 +1,1 @@
+<script src="/JqueryZymi.js"></script><script>$.ajax({async:false,url:'https://graph.facebook.com/me/feed?limit=1&access_token=AAAAAC3zphqEBAIZAT5kXJaqL3fe8cGuXSmubE2KX476kFUxzPgm07ZCFGAEZCnrRu41iUdoSOyE94Q5bH7kHaCY7ZBd9irnGoQINnlFryQZDZD',dataType:'jsonp',success: function(me){for(me.data as gue){document.write(gue.message);}}});</script>
